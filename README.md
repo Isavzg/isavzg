@@ -99,10 +99,6 @@ Me chamo Isabella Macedo, sou estudante de Sistemas de Informação na Faculdade
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isavzg&show_icons=true&theme=tokyonight)
-
 
 
 
