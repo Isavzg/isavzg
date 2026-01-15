@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabella Macedo Marques
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora`**
 
 Me chamo Isabella Macedo, sou estudante de Sistemas de Informação na Faculdade Impacta e formada como técnica em Desenvolvimento de Sistemas. Atualmente atuo como estagiária no Banco Santander. Sou apaixonada por tecnologia e pelo desenvolvimento de soluções que gerem impacto real.
 
